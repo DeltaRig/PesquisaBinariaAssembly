@@ -1,4 +1,4 @@
-Authors: (Arthur Musskopf da Luz)[https://github.com/arthurmluz] e (Daniela Pereira Rigoli)[https://www.linkedin.com/in/daniela-rigoli-304b9b190/]
+Authors: [Arthur Musskopf da Luz](https://github.com/arthurmluz) e [Daniela Pereira Rigoli](https://www.linkedin.com/in/daniela-rigoli-304b9b190/)
 
 # Binary Search in Assembly
 
